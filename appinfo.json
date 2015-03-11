@@ -1,0 +1,51 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "steve@inknpixel.co.uk",
+    "longName": "Design Jobs Wales",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/djw.png",
+                "name": "IMAGES_DJW_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/djw2.png",
+                "menuIcon": true,
+                "name": "IMAGES_DJW2_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "DJW",
+    "uuid": "50613e7b-bdf8-4f2c-b260-7373a1281fc4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
