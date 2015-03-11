@@ -29,14 +29,9 @@
                 "type": "font"
             },
             {
-                "file": "images/tile_splash.png",
-                "name": "IMAGES_TILE_SPLASH_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/menu_icon.png",
+                "file": "images/menu_icon_djw.png",
                 "menuIcon": true,
-                "name": "IMAGES_MENU_ICON_PNG",
+                "name": "IMAGES_MENU_ICON_DJW_PNG",
                 "type": "png"
             }
         ]
