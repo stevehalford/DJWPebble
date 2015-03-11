@@ -29,14 +29,14 @@
                 "type": "font"
             },
             {
-                "file": "images/djw.png",
-                "name": "IMAGES_DJW_PNG",
+                "file": "images/tile_splash.png",
+                "name": "IMAGES_TILE_SPLASH_PNG",
                 "type": "png"
             },
             {
-                "file": "images/djw2.png",
+                "file": "images/menu_icon.png",
                 "menuIcon": true,
-                "name": "IMAGES_DJW2_PNG",
+                "name": "IMAGES_MENU_ICON_PNG",
                 "type": "png"
             }
         ]

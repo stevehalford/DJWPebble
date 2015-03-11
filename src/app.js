@@ -9,9 +9,8 @@ var ajax = require('ajax');
 
 // Show splash
 var splashCard = new UI.Card({
-    title: " ",
-    body: "Downloading...",
-    icon : "images/djw.png"
+    title: "Design Jobs Wales",
+    body: "Downloading..."
 });
 
 splashCard.show();
